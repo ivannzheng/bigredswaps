@@ -1,4 +1,4 @@
-# Big Red Swaps (BRS)
+# ![Image](https://github.com/user-attachments/assets/17146e69-b984-43be-9b81-097c3752e526) Big Red Swaps (BRS)
 
 > A room swapping platform for Cornell University students. 
 > 
