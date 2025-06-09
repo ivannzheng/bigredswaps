@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/17146e69-b984-43be-9b81-097c3752e526" width="150" alt="Image">Big Red Swaps (BRS)
+# <img src="https://github.com/user-attachments/assets/17146e69-b984-43be-9b81-097c3752e526" width="150" alt="Image">   Big Red Swaps (BRS)
 
 > A room swapping platform for Cornell University students. 
 > 
