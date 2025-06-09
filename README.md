@@ -6,6 +6,10 @@
 
 Welcome, Cornellians! 👋 Looking to make your room swap experience easier? Big Red Swaps is your go-to platform for finding and arranging room swaps efficiently and seamlessly.
 
+## Demo
+
+https://github.com/user-attachments/assets/0a1586d4-797a-4391-8950-436acbe2ed4f
+
 ## What Makes Us Awesome
 
 ### Room Swapping
