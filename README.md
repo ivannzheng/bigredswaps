@@ -8,7 +8,7 @@ Welcome, Cornellians! 👋 Looking to make your room swap experience easier? Big
 
 ## Demo
 
-https://github.com/user-attachments/assets/0a1586d4-797a-4391-8950-436acbe2ed4f
+https://github.com/user-attachments/assets/0eb66bde-6697-48de-af13-5e37b600b683
 
 ## What Makes Us Awesome
 
