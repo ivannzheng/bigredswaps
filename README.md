@@ -80,8 +80,7 @@ Visit [brswaps.web.app](https://brswaps.web.app) to begin your room swap journey
 
 ### Frontend Architecture
 - **React + TypeScript**
-- **Tailwind CSS**
-- 
+
 ### Backend Infrastructure
 - **Firebase Platform**:
   - Authentication: Secure Cornell email verification
